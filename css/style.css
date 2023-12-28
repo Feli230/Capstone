@@ -1,0 +1,58 @@
+.top-container{
+  background-color: #6DB9EF;
+  position: relative;
+  padding-top: 150px;
+}
+
+.first-cloud {
+  position: absolute;
+  right: 190px;
+  top: 50px;
+}
+
+.second-cloud{
+  position: absolute;
+  left: 240px;
+  bottom: 260px;
+}
+
+/* .mountain{
+  overflow: clip;
+  position: relative;
+  left: 320px;
+  top: 50px;
+} */
+
+
+.profile-img{
+  border-radius: 50%;
+}
+
+.gifs{
+  margin-top: 25px;
+}
+
+.pro{
+  text-decoration: underline;
+  color: #3559E0;
+}
+
+.title-text{
+  text-align: center;
+}
+
+.intro{
+  text-align: center;
+}
+.education{
+  text-align: start;
+}
+
+
+
+hr {
+  border: dotted #3559E0 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
